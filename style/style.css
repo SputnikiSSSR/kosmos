@@ -1,0 +1,83 @@
+html {
+    background-color: rgb(21, 4, 51);
+    background-image: url("https://static.wikia.nocookie.net/ultimate-game-mixup/images/1/13/Kosmos.jpg/revision/latest?cb=20180704144102&path-prefix=ru");
+    color: aliceblue;
+}
+table{
+	font: normal small-caps bold 12px "stylesheet";
+    color:aliceblue;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+h2 {
+    font-size: 25px;
+}
+p, li {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+   
+}
+body {
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(7, 10, 37);
+    padding: 0 20px 20px 20px;
+}
+a {
+    font-size: 40px;
+}
+.myclass{
+    font-size: 25px;
+    color: rebeccapurple;
+}
+.classimg{
+    width: 50%;
+}
+.header_inner{
+    display: flex;
+    justify-content: space-between;
+}
+.nav_link{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 10px;
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    transition: colot 0.5s linear;
+}
+.nav_link:hover {
+    color:rgb(198, 198, 198);
+}
+.nav {
+    width: 960px;
+    margin: auto;
+}
+.classimg{
+    width: 50%;
+}
+.header_inner1{
+    display: flex;
+    justify-content: space-between;
+}
+.nav_link1{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 10px;
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    transition: colot 0.5s linear;
+}
+.nav_link1:hover {
+    color:rgb(198, 198, 198);
+}
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  img {
+    width: 30%;
+  }
